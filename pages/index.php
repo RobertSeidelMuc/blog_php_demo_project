@@ -1,4 +1,4 @@
-<?php include("../src/database.php"); ?>
+<?php include("../src/init.php"); ?>
 <?php include("elements/header.php"); ?>
 
       <h1>Startseite des Blogs</h1>
