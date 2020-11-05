@@ -5,7 +5,7 @@
 
     <?php
         $id = $_GET['id'];
-        $post = fetch_post($id);
+        $post = $postRepository->fetchPost($id);
     ?>
 
     <div class="panel panel-default">
